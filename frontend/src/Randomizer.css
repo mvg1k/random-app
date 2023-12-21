@@ -1,0 +1,26 @@
+.randomizer-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .login-section {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+  }
+  
+  .circle {
+    margin: 20px auto;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+  }
+  
+  .history {
+    margin-top: 20px;
+  }
+  

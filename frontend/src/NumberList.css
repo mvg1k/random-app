@@ -1,0 +1,29 @@
+.number-list-container {
+    margin: 20px 0;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border: 1px solid #e1e1e1;
+    border-radius: 8px;
+  }
+  
+  .number-list-container h2 {
+    color: #333;
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+  
+  .number-list-item {
+    padding: 5px 0;
+    border-bottom: 1px solid #e1e1e1;
+    list-style: none; /* Видаляємо стилі списку */
+  }
+  
+  .number-list-item:last-child {
+    border-bottom: none;
+  }
+  
+  .number-list-item p {
+    margin: 0;
+    color: #666;
+  }
+  
